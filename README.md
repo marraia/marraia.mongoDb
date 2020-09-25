@@ -10,7 +10,7 @@ Primeiro passo é adicionar a string de conexão com o mongodb em seu arquivo de
 ```
 "MongoSettings": {
     "Connection": "mongodb://192.168.0.18:17017/",
-    "Database": "TesteViaVarejo"
+    "Database": "TesteMarraia"
   }
 ```
 
