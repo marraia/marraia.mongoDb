@@ -1,0 +1,8 @@
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.deps.json
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.dll
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.AssemblyInfoInputs.cache
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.AssemblyInfo.cs
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.pdb
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.csproj.CoreCompileInputs.cache
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.dll
+C:\_test\Marraia.MongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.pdb
