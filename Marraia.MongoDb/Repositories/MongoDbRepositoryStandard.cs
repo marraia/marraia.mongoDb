@@ -19,5 +19,10 @@ namespace Marraia.MongoDb.Repositories
                         .GetCollection<TEntity>(typeof(TEntity).Name);
             }
         }
+
+        public MongoDbRepositoryStandard(IMongoContext context)
+        {
+            _context = context;
+        }
     }
 }
