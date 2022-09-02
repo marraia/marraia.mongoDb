@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rB4gg1Y3j0C4XdT1rKsz/F9R9XbYX+kNQbigYnvlNhmrfjv2k4+crsDYm9K+0f9fh486EjabIzL1GSJxuP3IOA==",
+  "dgSpecHash": "KWutLrUTaRRTCjMdAW2Hp1FzcJ18ByWWtU06zb6e+d6NGZkJEmlA80NUoBNsXaRhud0COvoFbPVOrt3mDX8ISQ==",
   "success": true,
   "projectFilePath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
   "expectedPackageFiles": [
@@ -124,8 +124,7 @@
     "C:\\Users\\User\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\marraia.mongodb\\1.0.3\\marraia.mongodb.1.0.3.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

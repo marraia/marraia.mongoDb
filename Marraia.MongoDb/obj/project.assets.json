@@ -709,7 +709,7 @@
     "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "restore": {
       "projectUniqueName": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
       "projectName": "Marraia.MongoDb",
