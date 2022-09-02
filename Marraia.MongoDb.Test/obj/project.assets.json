@@ -6896,19 +6896,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\foes\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_test\\Marraia.MongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
+      "projectUniqueName": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
       "projectName": "Marraia.MongoDb.Test",
-      "projectPath": "C:\\_test\\Marraia.MongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
-      "packagesPath": "C:\\Users\\foes\\.nuget\\packages\\",
-      "outputPath": "C:\\_test\\Marraia.MongoDb\\Marraia.MongoDb.Test\\obj\\",
+      "projectPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\foes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6916,14 +6916,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/myprofit/_packaging/myprofit/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\_test\\Marraia.MongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
-              "projectPath": "C:\\_test\\Marraia.MongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj"
+            "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
+              "projectPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj"
             }
           }
         }
@@ -6990,7 +6991,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

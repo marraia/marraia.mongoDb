@@ -11,5 +11,11 @@ namespace Marraia.MongoDb.Configurations
             service.AddScoped<IMongoContext, MongoContext>();
             return service;
         }
+
+        public static IServiceCollection AddMongoDbSingleton(this IServiceCollection service)
+        {
+            service.AddSingleton<IMongoContext, MongoContext>();
+            return service;
+        }
     }
 }
