@@ -1,9 +1,6 @@
 ﻿using Marraia.MongoDb.Repositories.Interfaces;
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Marraia.MongoDb.Repositories.Context
 {

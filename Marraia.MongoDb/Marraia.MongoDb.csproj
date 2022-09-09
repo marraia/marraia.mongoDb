@@ -6,7 +6,7 @@
     <Description>Pronto para usar, facilite sua conexão com o MongoDb. Métodos de Insert, Update, Delete e Select já prontos para utilizar em seus projetos.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>marraia.png</PackageIcon>
-    <Version>1.0.4</Version>
+    <Version>1.1.0</Version>
     <RepositoryUrl>https://github.com/marraia/marraia.mongoDb</RepositoryUrl>
     <PackageProjectUrl>https://github.com/marraia/marraia.mongoDb</PackageProjectUrl>
   </PropertyGroup>
@@ -14,7 +14,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.8" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.8" />
-    <PackageReference Include="MongoDB.Driver" Version="2.11.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.17.1" />
   </ItemGroup>
 
   <ItemGroup>
