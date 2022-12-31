@@ -54,15 +54,10 @@ namespace Marraia.MongoDb.Repositories
             var filter = Builders<TEntity>.Filter.Eq(x => x.Id, id);
 
             var entity = await Collection
-                                .FindAsync(filter);
+                                .FindAsync(filter)
+                                .ConfigureAwait(false);
 
-            if (entity.Any())
-            {
-                return await entity
-                                .FirstOrDefaultAsync();
-            }
-
-            return default;
+            return entity.FirstOrDefault();
         }
 
         public virtual async Task<IEnumerable<TEntity>> GetAllAsync()
