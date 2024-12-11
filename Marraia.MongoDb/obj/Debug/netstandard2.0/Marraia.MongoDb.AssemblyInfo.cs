@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Pronto para usar, facilite sua conexão com o MongoDb. Métodos de Insert, Update, " +
     "Delete e Select já prontos para utilizar em seus projetos.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.1+98dd8b35121fe4015514a6d4e2d83609599a76c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marraia.MongoDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marraia.MongoDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.1.0")]

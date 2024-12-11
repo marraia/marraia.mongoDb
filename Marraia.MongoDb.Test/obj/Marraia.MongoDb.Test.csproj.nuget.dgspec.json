@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj": {}
+    "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj": {}
   },
   "projects": {
-    "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj": {
+    "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
+        "projectUniqueName": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
         "projectName": "Marraia.MongoDb.Test",
-        "projectPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\obj\\",
+        "projectPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
+        "packagesPath": "C:\\Users\\FernandoMendes\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FernandoMendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/myprofit/_packaging/myprofit/nuget/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
-                "projectPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj"
+              "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
+                "projectPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj"
               }
             }
           }
@@ -43,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -73,6 +78,18 @@
               "target": "Package",
               "version": "[4.2.2, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Text.RegularExpressions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[1.2.0, )"
@@ -92,47 +109,66 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.101, 9.0.101]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
-      "version": "1.1.1",
+    "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
+      "version": "1.1.2",
       "restore": {
-        "projectUniqueName": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
+        "projectUniqueName": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
         "projectName": "Marraia.MongoDb",
-        "projectPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\_projects\\_github\\marraia.mongoDb\\Marraia.MongoDb\\obj\\",
+        "projectPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
+        "packagesPath": "C:\\Users\\FernandoMendes\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FernandoMendes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/myprofit/_packaging/myprofit/nuget/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -140,29 +176,28 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[9.0.0, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.18.0, )"
-            },
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -171,11 +206,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.101, 9.0.101]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

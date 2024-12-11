@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = Marraia.MongoDb.Test
-build_property.ProjectDir = D:\_projects\_github\marraia.mongoDb\Marraia.MongoDb.Test\
+build_property.ProjectDir = C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb.Test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

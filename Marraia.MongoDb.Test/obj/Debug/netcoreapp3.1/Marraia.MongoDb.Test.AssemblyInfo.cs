@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marraia.MongoDb.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98dd8b35121fe4015514a6d4e2d83609599a76c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marraia.MongoDb.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marraia.MongoDb.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

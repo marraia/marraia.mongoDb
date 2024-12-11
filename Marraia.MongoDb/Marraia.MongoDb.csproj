@@ -1,20 +1,20 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <Authors>Fernando Mendes</Authors>
     <Description>Pronto para usar, facilite sua conexão com o MongoDb. Métodos de Insert, Update, Delete e Select já prontos para utilizar em seus projetos.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>marraia.png</PackageIcon>
-    <Version>1.1.1</Version>
+    <Version>1.1.2</Version>
     <RepositoryUrl>https://github.com/marraia/marraia.mongoDb</RepositoryUrl>
     <PackageProjectUrl>https://github.com/marraia/marraia.mongoDb</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
-    <PackageReference Include="MongoDB.Driver" Version="2.18.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.1.0" />
   </ItemGroup>
 
   <ItemGroup>

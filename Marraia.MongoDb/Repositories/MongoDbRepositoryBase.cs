@@ -1,6 +1,7 @@
 ﻿using Marraia.MongoDb.Core;
 using Marraia.MongoDb.Repositories.Interfaces;
 using MongoDB.Driver;
+using MongoDB.Driver.Linq;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
