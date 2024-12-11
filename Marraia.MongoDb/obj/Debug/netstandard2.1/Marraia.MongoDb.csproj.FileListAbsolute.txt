@@ -1,0 +1,11 @@
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.1\Marraia.MongoDb.deps.json
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.1\Marraia.MongoDb.dll
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.1\Marraia.MongoDb.pdb
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.csproj.AssemblyReference.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.AssemblyInfoInputs.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.AssemblyInfo.cs
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.csproj.CoreCompileInputs.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.sourcelink.json
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.dll
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.1\Marraia.MongoDb.pdb

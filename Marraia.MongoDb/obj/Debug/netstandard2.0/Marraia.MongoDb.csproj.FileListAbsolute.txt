@@ -16,3 +16,14 @@ D:\_projects\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Ma
 D:\_projects\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.csproj.CoreCompileInputs.cache
 D:\_projects\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.dll
 D:\_projects\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.pdb
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.csproj.AssemblyReference.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.AssemblyInfoInputs.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.AssemblyInfo.cs
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.csproj.CoreCompileInputs.cache
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.sourcelink.json
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.dll
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\obj\Debug\netstandard2.0\Marraia.MongoDb.pdb
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.deps.json
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.dll
+C:\projects\_me\_github\marraia.mongoDb\Marraia.MongoDb\bin\Debug\netstandard2.0\Marraia.MongoDb.pdb
