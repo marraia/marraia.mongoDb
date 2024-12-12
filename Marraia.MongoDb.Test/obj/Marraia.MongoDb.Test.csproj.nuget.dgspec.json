@@ -47,8 +47,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -120,10 +121,6 @@
               "version": "[3.1.10, 3.1.10]"
             },
             {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[3.1.0, 3.1.0]"
             },
@@ -142,7 +139,7 @@
       }
     },
     "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj": {
-      "version": "1.1.2",
+      "version": "1.1.3",
       "restore": {
         "projectUniqueName": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
         "projectName": "Marraia.MongoDb",
@@ -180,8 +177,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        }
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "netstandard2.1": {
@@ -211,12 +209,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.101, 9.0.101]"
-            }
-          ],
           "frameworkReferences": {
             "NETStandard.Library": {
               "privateAssets": "all"

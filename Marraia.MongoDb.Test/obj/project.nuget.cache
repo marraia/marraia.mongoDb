@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uvINW+mNK9Q=",
+  "dgSpecHash": "OjmIUqhaEjU=",
   "success": true,
   "projectFilePath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj",
   "expectedPackageFiles": [
@@ -127,7 +127,6 @@
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\FernandoMendes\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512",
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\FernandoMendes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
