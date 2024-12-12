@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\projects\\_me\\_github\\marraia.mongoDb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\marraia.mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\marraia.mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\repositories\\context\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\repositories\\context\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\core\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\configurations\\mongodbconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\configurations\\mongodbconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb\\marraia.mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C61B0C2E-C0C1-4CE2-8EC2-EEFC5D71D41B}|Marraia.MongoDb\\Marraia.MongoDb.csproj|solutionrelative:marraia.mongodb\\marraia.mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08AD4C26-6C0B-4C48-8ED4-0F8BFBE36AE0}|Marraia.MongoDb.Test\\Marraia.MongoDb.Test.csproj|c:\\projects\\_me\\_github\\marraia.mongodb\\marraia.mongodb.test\\marraia.mongodb.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -63,26 +63,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Core\\Entity.cs",
               "RelativeDocumentMoniker": "Marraia.MongoDb\\Core\\Entity.cs",
-              "ToolTip": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Core\\Entity.cs",
-              "RelativeToolTip": "Marraia.MongoDb\\Core\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Core\\Entity.cs*",
+              "RelativeToolTip": "Marraia.MongoDb\\Core\\Entity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T17:53:02.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Marraia.MongoDb.csproj",
               "DocumentMoniker": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
               "RelativeDocumentMoniker": "Marraia.MongoDb\\Marraia.MongoDb.csproj",
               "ToolTip": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
               "RelativeToolTip": "Marraia.MongoDb\\Marraia.MongoDb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-11T17:53:02.371Z",
               "EditorCaption": ""
@@ -131,14 +131,14 @@
               "RelativeDocumentMoniker": "Marraia.MongoDb\\Repositories\\Context\\MongoContext.cs",
               "ToolTip": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Repositories\\Context\\MongoContext.cs",
               "RelativeToolTip": "Marraia.MongoDb\\Repositories\\Context\\MongoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T17:53:02.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MongoDbConfigurationExtensions.cs",
               "DocumentMoniker": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Configurations\\MongoDbConfigurationExtensions.cs",
               "RelativeDocumentMoniker": "Marraia.MongoDb\\Configurations\\MongoDbConfigurationExtensions.cs",
