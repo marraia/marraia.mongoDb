@@ -2292,7 +2292,7 @@
           "lib/netcoreapp3.1/ZstdSharp.dll": {}
         }
       },
-      "Marraia.MongoDb/1.1.5": {
+      "Marraia.MongoDb/1.1.6": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
@@ -7095,7 +7095,7 @@
         "zstdsharp.port.nuspec"
       ]
     },
-    "Marraia.MongoDb/1.1.5": {
+    "Marraia.MongoDb/1.1.6": {
       "type": "project",
       "path": "../Marraia.MongoDb/Marraia.MongoDb.csproj",
       "msbuildProject": "../Marraia.MongoDb/Marraia.MongoDb.csproj"
@@ -7105,7 +7105,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Bogus >= 29.0.2",
       "FluentAssertions >= 5.10.3",
-      "Marraia.MongoDb >= 1.1.5",
+      "Marraia.MongoDb >= 1.1.6",
       "Microsoft.Extensions.Configuration >= 3.1.8",
       "Microsoft.Extensions.Configuration.Json >= 3.1.8",
       "Microsoft.NET.Test.Sdk >= 16.5.0",

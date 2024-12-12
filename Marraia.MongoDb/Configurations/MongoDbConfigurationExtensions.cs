@@ -8,12 +8,6 @@ namespace Marraia.MongoDb.Configurations
     {
         public static IServiceCollection AddMongoDb(this IServiceCollection service)
         {
-            service.AddScoped<IMongoContext, MongoContext>();
-            return service;
-        }
-
-        public static IServiceCollection AddMongoDbSingleton(this IServiceCollection service)
-        {
             service.AddSingleton<IMongoContext, MongoContext>();
             return service;
         }

@@ -6,9 +6,10 @@
     <Description>Pronto para usar, facilite sua conexão com o MongoDb. Métodos de Insert, Update, Delete e Select já prontos para utilizar em seus projetos.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>marraia.png</PackageIcon>
-    <Version>1.1.5</Version>
+    <Version>1.1.6</Version>
     <RepositoryUrl>https://github.com/marraia/marraia.mongoDb</RepositoryUrl>
     <PackageProjectUrl>https://github.com/marraia/marraia.mongoDb</PackageProjectUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,6 +23,7 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
+	<None Include="README.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
