@@ -2,7 +2,6 @@
 {
     public abstract class Entity<T> where T : struct
     {
-        //[BsonGuidRepresentation(GuidRepresentation.Standard)]
         public T Id { get; protected set; }
 
         public static bool operator !=(Entity<T> a, Entity<T> b)

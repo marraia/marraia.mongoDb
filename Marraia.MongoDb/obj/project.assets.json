@@ -841,7 +841,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.1.4-alpha",
+    "version": "1.1.5",
     "restore": {
       "projectUniqueName": "C:\\projects\\_me\\_github\\marraia.mongoDb\\Marraia.MongoDb\\Marraia.MongoDb.csproj",
       "projectName": "Marraia.MongoDb",
