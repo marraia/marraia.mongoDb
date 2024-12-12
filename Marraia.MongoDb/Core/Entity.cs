@@ -1,11 +1,8 @@
-﻿using MongoDB.Bson.Serialization.Attributes;
-using MongoDB.Bson;
-
-namespace Marraia.MongoDb.Core
+﻿namespace Marraia.MongoDb.Core
 {
     public abstract class Entity<T> where T : struct
     {
-        [BsonGuidRepresentation(GuidRepresentation.Standard)]
+        //[BsonGuidRepresentation(GuidRepresentation.Standard)]
         public T Id { get; protected set; }
 
         public static bool operator !=(Entity<T> a, Entity<T> b)

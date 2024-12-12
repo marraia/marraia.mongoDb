@@ -21,9 +21,7 @@ namespace Marraia.MongoDb.Repositories.Context
             Client = new MongoClient(configuration["MongoSettings:Connection"]);
             Database = Client.GetDatabase(configuration["MongoSettings:Database"]);
 
-            var objectDiscriminatorConvention = BsonSerializer.LookupDiscriminatorConvention(typeof(object));
-            var objectSerializer = new ObjectSerializer(objectDiscriminatorConvention, GuidRepresentation.Standard);
-            BsonSerializer.RegisterSerializer(objectSerializer);
+            BsonSerializer.RegisterSerializer(new GuidSerializer(GuidRepresentation.Standard));
         }
     }
 }
