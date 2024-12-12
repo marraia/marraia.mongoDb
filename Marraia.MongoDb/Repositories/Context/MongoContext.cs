@@ -1,5 +1,8 @@
 ﻿using Marraia.MongoDb.Repositories.Interfaces;
 using Microsoft.Extensions.Configuration;
+using MongoDB.Bson.Serialization.Serializers;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson;
 using MongoDB.Driver;
 
 namespace Marraia.MongoDb.Repositories.Context
@@ -17,6 +20,10 @@ namespace Marraia.MongoDb.Repositories.Context
 
             Client = new MongoClient(configuration["MongoSettings:Connection"]);
             Database = Client.GetDatabase(configuration["MongoSettings:Database"]);
+
+            var objectDiscriminatorConvention = BsonSerializer.LookupDiscriminatorConvention(typeof(object));
+            var objectSerializer = new ObjectSerializer(objectDiscriminatorConvention, GuidRepresentation.Standard);
+            BsonSerializer.RegisterSerializer(objectSerializer);
         }
     }
 }
