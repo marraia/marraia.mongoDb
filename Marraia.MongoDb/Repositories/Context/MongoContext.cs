@@ -21,7 +21,7 @@ namespace Marraia.MongoDb.Repositories.Context
             Client = new MongoClient(configuration["MongoSettings:Connection"]);
             Database = Client.GetDatabase(configuration["MongoSettings:Database"]);
 
-            BsonSerializer.RegisterSerializer(new GuidSerializer(GuidRepresentation.Standard));
+            BsonSerializer.RegisterSerializer(new GuidSerializer(GuidRepresentation.CSharpLegacy));
         }
     }
 }
